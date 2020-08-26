@@ -1,0 +1,16 @@
+.flexContainer {
+  display: flex;
+}
+
+.arrayContainer {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+.arrayBar {
+  width: 2px;
+  background-color: violet;
+  padding: 1.5rem;
+}
